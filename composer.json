@@ -1,0 +1,14 @@
+{
+  "name": "gctools-outilsgc/sample_mod",
+  "description": "Does something",
+  "type": "elgg-plugin",
+  "keywords": ["elgg", "plugin", "thing"],
+  "license": "GPL-2.0",
+  "support": {
+    "source": "https://github.com/gctools-outilsgc/sample_mod",
+    "issues": "https://github.com/gctools-outilsgc/sample_mod/issues"
+  },
+  "require": {
+    "composer/installers": "^1.0.8"
+  }
+}
